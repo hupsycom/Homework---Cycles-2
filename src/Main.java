@@ -103,6 +103,7 @@ public class Main {
         for (int cometYear = startYear; cometYear < endYear; cometYear++) {
             if (cometYear % 79 == 0) {
                 System.out.println(cometYear);
+
             }
         }
 
